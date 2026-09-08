@@ -63,4 +63,4 @@ Open in Android Studio (Ladybug+), sync, run. No API keys required — all data 
 
 ---
 
-**Anubhav Kumar** — Product & Growth Associate → APM. Part of a portfolio of shipped product experiments: [Khyaal](https://github.com/anubhavk42/khyaal) · [SAAR](https://github.com/anubhavk42/saar) · [NutriLens AI](https://github.com/anubhavk42/nutrilens-ai) · [Disha](https://github.com/anubhavk42/disha-career-app)
+**Anubhav Kapoor** — Product & Growth Associate → APM. Part of a portfolio of shipped product experiments: [Khyaal](https://github.com/anubhavk42/khyaal) · [SAAR](https://github.com/anubhavk42/saar) · [NutriLens AI](https://github.com/anubhavk42/nutrilens-ai) · [Disha](https://github.com/anubhavk42/disha-career-app)
