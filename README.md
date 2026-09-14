@@ -2,6 +2,8 @@
 
 A premium animated weather app for Android where the **entire screen atmosphere changes with live conditions** — rain streaks fall during rain, snow drifts on cold days, the sun sets into a golden dusk in real time, and a crescent moon rises at night. Built with Jetpack Compose, powered by Open-Meteo, designed end-to-end from research to shipped code.
 
+**▶️ [Try the live demo](https://appetize.io/app/b_gfn567ycsmtelj6zzl7tp7pnzq)** — run the app in your browser, no install needed.
+
 > **Why a weather app?** Weather is the most saturated category on the Play Store — which is exactly why I picked it. The goal wasn't market share; it was proving I could match top-tier product polish (Apple Weather, CARROT) with AI-assisted execution, solo, in days. This repo documents the whole pipeline: market research → design system → phased build spec → code review loop → shipped v1.1.
 
 ---
