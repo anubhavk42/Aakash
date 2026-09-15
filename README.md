@@ -4,6 +4,10 @@ A premium animated weather app for Android where the **entire screen atmosphere 
 
 **▶️ [Try the live demo](https://appetize.io/app/b_gfn567ycsmtelj6zzl7tp7pnzq)** — run the app in your browser, no install needed.
 
+## Demo
+
+https://github.com/user-attachments/assets/9788e048-2af1-4eb6-bc52-bfa4f6152448
+
 > **Why a weather app?** Weather is the most saturated category on the Play Store — which is exactly why I picked it. The goal wasn't market share; it was proving I could match top-tier product polish (Apple Weather, CARROT) with AI-assisted execution, solo, in days.
 
 ## The problem
