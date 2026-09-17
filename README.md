@@ -115,4 +115,4 @@ This project was built using AI-assisted development with [Claude Code](https://
 
 ---
 
-**Anubhav Kapoor** — Product & Growth Associate → APM. Part of a portfolio of shipped product experiments: [Khyaal](https://github.com/anubhavk42/khyaal) · [SAAR](https://github.com/anubhavk42/saar) · [NutriLens AI](https://github.com/anubhavk42/nutrilens-ai) · [Disha](https://github.com/anubhavk42/disha-career-app)
+**Anubhav Kapoor**
